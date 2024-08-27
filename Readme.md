@@ -1,5 +1,5 @@
 # Vanilla Calculator
-***Developed by waiyanlin for assignment
+***Developed by waiyanlin for assignment***
 
 ## Production Url
 ```
